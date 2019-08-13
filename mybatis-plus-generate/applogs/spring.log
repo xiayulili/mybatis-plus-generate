@@ -1,0 +1,19 @@
+2019-08-13 10:54:40.928  INFO 5488 --- [main] c.d.x.b.m.MybatisPlusGenerateApplication : Starting MybatisPlusGenerateApplication on DESKTOP-OAC5N04 with PID 5488 (D:\eclipse-workspaces\mybatis-plus-generate\target\classes started by XIA in D:\eclipse-workspaces\mybatis-plus-generate)
+2019-08-13 10:54:40.949 DEBUG 5488 --- [main] c.d.x.b.m.MybatisPlusGenerateApplication : Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-08-13 10:54:40.950  INFO 5488 --- [main] c.d.x.b.m.MybatisPlusGenerateApplication : No active profile set, falling back to default profiles: default
+2019-08-13 10:54:42.474  WARN 5488 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.dream.xy.bootx.mybatisplusgenerate]' package. Please check your configuration.
+2019-08-13 10:54:44.264  INFO 5488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2019-08-13 10:54:44.304  INFO 5488 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-13 10:54:44.304  INFO 5488 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-08-13 10:54:44.596  INFO 5488 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-13 10:54:44.597  INFO 5488 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3529 ms
+2019-08-13 10:54:44.993  INFO 5488 --- [main] com.zaxxer.hikari.HikariDataSource       : UserHikariCP - Starting...
+2019-08-13 10:54:45.341  INFO 5488 --- [main] com.zaxxer.hikari.HikariDataSource       : UserHikariCP - Start completed.
+2019-08-13 10:54:46.441  INFO 5488 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-13 10:54:47.132  INFO 5488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2019-08-13 10:54:47.157  INFO 5488 --- [main] c.d.x.b.m.MybatisPlusGenerateApplication : Started MybatisPlusGenerateApplication in 7.321 seconds (JVM running for 8.346)
+2019-08-13 10:55:03.801  INFO 5488 --- [http-nio-9000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-13 10:55:03.802  INFO 5488 --- [http-nio-9000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-08-13 10:55:03.815  INFO 5488 --- [http-nio-9000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
+2019-08-13 10:55:04.247 DEBUG 5488 --- [http-nio-9000-exec-2] c.d.x.b.m.c.AutoGenerateController       : tableName:admin_user
+2019-08-13 10:55:56.943 DEBUG 5488 --- [http-nio-9000-exec-3] c.d.x.b.m.c.AutoGenerateController       : tableName:admin_user
